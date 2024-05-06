@@ -6,8 +6,9 @@ const signupHandler = require('./handlers/signupHandlers');
 const userHandlers = require('./handlers/userHandlers');
 const moodHandler = require('./handlers/moodHandler');
 const cors = require('cors');
+require('dotenv').config(); 
 const app = express();
-const PORT =  process.env.PORT;
+const PORT =  process.env.PORT || 8080; 
 app.use(cors());
 app.use(bodyParser.json());
 
