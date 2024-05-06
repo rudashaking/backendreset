@@ -97,5 +97,45 @@
         ]
       }
     ]
+  },
+  {
+    "userId": "611df2d6-e3c6-4442-9788-980a3cc83e5a",
+    "username": "5",
+    "password": "$2b$10$XLPU7LMMir1CgkS59X1X9OWk/o6y7tgoqypJ0Fx7kxjxfXsNJI6CC",
+    "journals": [
+      {
+        "id": "1",
+        "title": "Test",
+        "description": "test",
+        "createdAt": "2024-05-06T20:11:48.935Z",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "userId": "0aa803dc-f70c-4c3e-a6e3-8e0a927b9c9b",
+    "username": "7",
+    "password": "$2b$10$3pBqiYz1.DdHRwqcDXy/6.2uztqeQ1dubViBsO.lYHlxYM7XwpfnW",
+    "journals": [
+      {
+        "id": "1",
+        "title": "jdfjhfgj",
+        "description": "fgjfgj",
+        "createdAt": "2024-05-06T20:20:03.863Z",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "userId": "3d9660cb-ceae-4a25-831b-5777284dac57",
+    "username": "11",
+    "password": "$2b$10$DjWFOiNACXbTtfKON9VtEuWqWn3B.v5RROHoqRJdR2Komu/IqrbnO",
+    "journals": []
+  },
+  {
+    "userId": "c29748f9-00b7-42bd-9333-c4918f340d05",
+    "username": "17",
+    "password": "$2b$10$JKUomLUdfkEG/6WzFfp1rORJGNQO8sYS9mLpeGcSMNGfUJ1GkDfq.",
+    "journals": []
   }
 ]
