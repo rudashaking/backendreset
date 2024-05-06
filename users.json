@@ -1,0 +1,101 @@
+[
+  {
+    "userId": "08a4d305-311e-474a-bcca-c62a6f3b2d51",
+    "username": "1",
+    "password": "$2b$10$xhEYvOcWr.SF.PPhiktTO.2WnHD5MvM2kPLD4B80z.RR3AJS3t/nq",
+    "journals": [
+      {
+        "id": "1",
+        "title": "First Journal Entry",
+        "entries": [
+          {
+            "entryId": "1",
+            "content": "This is the content of the first journal entry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "createdAt": "2022-05-01T10:00:00Z"
+          },
+          {
+            "entryId": "2",
+            "content": "Additional content for the first journal entry. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "createdAt": "2022-05-01T11:00:00Z"
+          },
+          {
+            "entryId": "3",
+            "title": "jihjkkjdgkdjkgjndfghkfkdkl",
+            "content": "sadI'm sad ",
+            "createdAt": "2024-05-06T07:27:25.700Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userId": "5bdec891-7012-48c7-8015-093b1386bf55",
+    "username": "2",
+    "password": "$2b$10$ram4mKmZbrKSCYefG4Ir0.GVSliwDL64LbMwD8PrcP2KLBjf5mKJm",
+    "journals": [
+      {
+        "id": "1",
+        "title": "First Journal",
+        "entries": [
+          {
+            "entryId": "1",
+            "title": "First Entry",
+            "content": "This is the content of the first entry.",
+            "createdAt": "2024-05-10T08:30:00Z"
+          },
+          {
+            "entryId": "2",
+            "title": "Second Entry",
+            "content": "This is the content of the second entry.",
+            "createdAt": "2024-05-11T10:15:00Z"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Second Journal",
+        "entries": [
+          {
+            "entryId": "1",
+            "title": "First Entry",
+            "content": "This is the content of the first entry in the second journal.",
+            "createdAt": "2024-05-12T14:20:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userId": "dd43af8c-1351-4101-a9d3-b3bc6381ad02",
+    "username": "trinity",
+    "password": "$2b$10$nDmstjWGPvC8egp7HtgYQ.2ibfq7/OxyIZIkPrngfJfhAiMHKUd4y",
+    "journals": [
+      {
+        "id": 1,
+        "title": "new 1",
+        "description": "",
+        "createdAt": "2024-05-04T02:59:11.308Z"
+      },
+      {
+        "id": "2",
+        "title": "fsdgtsgrg",
+        "description": "drsgrgdrg",
+        "createdAt": "2024-05-06T06:14:50.091Z",
+        "entries": [
+          {
+            "entryId": "1",
+            "title": "",
+            "content": "grgdgdf",
+            "createdAt": "2024-05-06T06:14:53.805Z"
+          },
+          {
+            "entryId": "2",
+            "title": "fsfsdf",
+            "content": "fsfdsfds",
+            "createdAt": "2024-05-06T09:46:34.829Z"
+          }
+        ]
+      }
+    ]
+  }
+]

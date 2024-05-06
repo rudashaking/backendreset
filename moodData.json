@@ -1,0 +1,438 @@
+
+    {
+      "Happy": [
+        {
+          "index": 1,
+          "quote": "The only way to do great work is to love what you do.",
+          "song": "Happy by Pharrell Williams",
+          "healthTip": "Go for a walk in nature or spend time with loved ones."
+        },
+        {
+          "index": 2,
+          "quote": "Happiness is not something ready-made. It comes from your own actions.",
+          "song": "Don't Stop Believin' by Journey",
+          "healthTip": "Practice mindfulness meditation to cultivate a positive mindset."
+        },
+        {
+          "index": 3,
+          "quote": "Success is not the key to happiness. Happiness is the key to success.",
+          "song": "Walking on Sunshine by Katrina and the Waves",
+          "healthTip": "Laugh often and surround yourself with positive people."
+        },
+        {
+          "index": 4,
+          "quote": "The most important thing is to enjoy your life - to be happy. It's all that matters.",
+          "song": "Best Day of My Life by American Authors",
+          "healthTip": "Eat nutritious foods that nourish your body and boost your mood."
+        },
+        {
+          "index": 5,
+          "quote": "Happiness is not by chance, but by choice.",
+          "song": "Happy Together by The Turtles",
+          "healthTip": "Get plenty of sleep and prioritize self-care practices."
+        },
+        {
+          "index": 6,
+          "quote": "The happiness of your life depends upon the quality of your thoughts.",
+          "song": "Good Vibrations by The Beach Boys",
+          "healthTip": "Spend time doing activities that bring you joy and fulfillment."
+        },
+        {
+          "index": 7,
+          "quote": "Happiness is not something you postpone for the future; it is something you design for the present.",
+          "song": "I Gotta Feeling by The Black Eyed Peas",
+          "healthTip": "Practice gratitude and focus on the present moment."
+        },
+        {
+          "index": 8,
+          "quote": "The secret of happiness is to count your blessings while others are adding up their troubles.",
+          "song": "Don't Worry, Be Happy by Bobby McFerrin",
+          "healthTip": "Engage in hobbies and activities that bring you a sense of accomplishment."
+        },
+        {
+          "index": 9,
+          "quote": "Happiness is the art of never holding in your mind the memory of any unpleasant thing that has passed.",
+          "song": "Don't Stop Believin' by Journey",
+          "healthTip": "Surround yourself with positive influences and avoid negative environments."
+        },
+        {
+          "index": 10,
+          "quote": "The happiness of your life depends upon the quality of your thoughts.",
+          "song": "Three Little Birds by Bob Marley",
+          "healthTip": "Practice mindfulness and focus on the present moment."
+        }
+      ],
+      "Sad": [
+        {
+          "index": 1,
+          "quote": "The pain you feel today is the strength you feel tomorrow.",
+          "song": "Everybody Hurts by R.E.M.",
+          "healthTip": "Find solace in art or creative expression to channel your emotions."
+        },
+        {
+          "index": 2,
+          "quote": "The greater your capacity to feel sadness, the greater your capacity to feel happiness.",
+          "song": "Tears in Heaven by Eric Clapton",
+          "healthTip": "Seek comfort in nature and spend time outdoors to uplift your spirits."
+        },
+        {
+          "index": 3,
+          "quote": "The only way out of the labyrinth of suffering is to forgive.",
+          "song": "Hurt by Johnny Cash",
+          "healthTip": "Engage in acts of kindness towards others to find meaning in difficult times."
+        },
+        {
+          "index": 4,
+          "quote": "Tears come from the heart and not from the brain.",
+          "song": "Everybody Hurts by R.E.M.",
+          "healthTip": "Allow yourself to grieve and express your emotions without judgment."
+        },
+        {
+          "index": 5,
+          "quote": "Sadness is but a wall between two gardens.",
+          "song": "Tears in Heaven by Eric Clapton",
+          "healthTip": "Practice self-compassion and treat yourself with kindness during tough times."
+        },
+        {
+          "index": 6,
+          "quote": "There is no greater sorrow than to recall happiness in times of misery.",
+          "song": "Fix You by Coldplay",
+          "healthTip": "Reach out to a trusted friend or therapist for emotional support."
+        },
+        {
+          "index": 7,
+          "quote": "Every heart has its secret sorrows which the world knows not.",
+          "song": "Someone Like You by Adele",
+          "healthTip": "Engage in activities that bring you comfort and soothe your soul."
+        },
+        {
+          "index": 8,
+          "quote": "The deeper that sorrow carves into your being, the more joy you can contain.",
+          "song": "Hurt by Johnny Cash",
+          "healthTip": "Practice self-care rituals and prioritize your mental and emotional well-being."
+        },
+        {
+          "index": 9,
+          "quote": "Sadness flies away on the wings of time.",
+          "song": "Fix You by Coldplay",
+          "healthTip": "Stay connected with loved ones and lean on your support network for strength."
+        },
+        {
+          "index": 10,
+          "quote": "There is no charm equal to tenderness of heart.",
+          "song": "Tears in Heaven by Eric Clapton",
+          "healthTip": "Reflect on past challenges and acknowledge your resilience in overcoming them."
+        }
+      ],
+      "Angry": [
+        {
+          "index": 1,
+          "quote": "Speak when you are angry, and you will make the best speech you will ever regret.",
+          "song": "Break Stuff by Limp Bizkit",
+          "healthTip": "Take a break and practice relaxation techniques like progressive muscle relaxation."
+        },
+        {
+          "index": 2,
+          "quote": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
+          "song": "Killing in the Name by Rage Against the Machine",
+          "healthTip": "Practice forgiveness and let go of resentment for your own well-being."
+        },
+        {
+          "index": 3,
+          "quote": "For every minute you are angry, you lose sixty seconds of happiness.",
+          "song": "Bulls on Parade by Rage Against the Machine",
+          "healthTip": "Redirect your energy into a productive activity or creative endeavor."
+        },
+        {
+          "index": 4,
+          "quote": "Letting go of anger is the ultimate form of self-love.",
+          "song": "Break Free by Ariana Grande",
+          "healthTip": "Seek therapy or counseling to explore the root causes of your anger."
+        },
+        {
+          "index": 5,
+          "quote": "Holding onto anger is like drinking poison and expecting the other person to die.",
+          "song": "Lose Yourself by Eminem",
+          "healthTip": "Practice deep breathing exercises to calm your mind and body."
+        },
+        {
+          "index": 6,
+          "quote": "Anger, if not restrained, is frequently more hurtful to us than the injury that provokes it.",
+          "song": "Down With the Sickness by Disturbed",
+          "healthTip": "Express your feelings in a healthy way through journaling or talking to a trusted friend."
+        },
+        {
+          "index": 7,
+          "quote": "When anger rises, think of the consequences.",
+          "song": "Smells Like Teen Spirit by Nirvana",
+          "healthTip": "Practice empathy and try to understand the perspective of the person or situation that angered you."
+        },
+        {
+          "index": 8,
+          "quote": "The first step in solving a problem is to recognize that it does exist.",
+          "song": "Killing in the Name by Rage Against the Machine",
+          "healthTip": "Take responsibility for your emotions and seek healthy outlets for your anger."
+        },
+        {
+          "index": 9,
+          "quote": "He who angers you conquers you.",
+          "song": "Break Stuff by Limp Bizkit",
+          "healthTip": "Practice assertiveness and communicate your needs effectively to prevent anger from escalating."
+        },
+        {
+          "index": 10,
+          "quote": "Anger is often more hurtful than the injury that caused it.",
+          "song": "Down With the Sickness by Disturbed",
+          "healthTip": "Channel your anger into constructive action by advocating for positive change."
+        }
+      ],
+      "Neutral": [
+        {
+          "index": 1,
+          "quote": "Life is what happens when you're busy making other plans.",
+          "song": "Three Little Birds by Bob Marley",
+          "healthTip": "Maintain balance in your life by practicing mindfulness and self-reflection."
+        },
+        {
+          "index": 2,
+          "quote": "The quieter you become, the more you can hear.",
+          "song": "Landslide by Fleetwood Mac",
+          "healthTip": "Engage in gentle stretching exercises or take a warm bath to relax your body."
+        },
+        {
+          "index": 3,
+          "quote": "Sometimes the most productive thing you can do is relax.",
+          "song": "Don't Worry, Be Happy by Bobby McFerrin",
+          "healthTip": "Practice deep breathing exercises and focus on the present moment."
+        },
+        {
+          "index": 4,
+          "quote": "Let go of what has passed. Let go of what may come. Let go of what is happening now. Don’t try to figure anything out. Don’t try to make anything happen. Relax, right now, and rest.",
+          "song": "The Sound of Silence by Simon & Garfunkel",
+          "healthTip": "Practice self-compassion and be gentle with yourself during difficult times."
+        },
+        {
+          "index": 5,
+          "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+          "song": "Here Comes the Sun by The Beatles",
+          "healthTip": "Practice gratitude and focus on the blessings in your life."
+        },
+        {
+          "index": 6,
+          "quote": "The highest form of intelligence is the ability to observe without judging.",
+          "song": "Imagine by John Lennon",
+          "healthTip": "Spend time in nature and appreciate the beauty of the world around you."
+        },
+        {
+          "index": 7,
+          "quote": "The mind is everything. What you think you become.",
+          "song": "Across the Universe by The Beatles",
+          "healthTip": "Practice positive affirmations and cultivate a mindset of abundance."
+        },
+        {
+          "index": 8,
+          "quote": "When you realize nothing is lacking, the whole world belongs to you.",
+          "song": "Octopus's Garden by The Beatles",
+          "healthTip": "Engage in hobbies or activities that bring you joy and fulfillment."
+        },
+        {
+          "index": 9,
+          "quote": "Peace comes from within. Do not seek it without.",
+          "song": "Let It Be by The Beatles",
+          "healthTip": "Find moments of stillness and silence to connect with your inner self."
+        },
+        {
+          "index": 10,
+          "quote": "The present moment is the only moment available to us, and it is the door to all moments.",
+          "song": "Here Comes the Sun by The Beatles",
+          "healthTip": "Practice mindfulness meditation to cultivate awareness and presence."
+        }
+      ],
+      "Excited": [
+        {
+          "index": 1,
+          "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+          "song": "Eye of the Tiger by Survivor",
+          "healthTip": "Engage in physical activity or exercise to boost your energy and enthusiasm."
+        },
+        {
+          "index": 2,
+          "quote": "Every moment is a fresh beginning.",
+          "song": "Good Life by OneRepublic",
+          "healthTip": "Set exciting goals and take small steps towards achieving them."
+        },
+        {
+          "index": 3,
+          "quote": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+          "song": "Happy by Pharrell Williams",
+          "healthTip": "Surround yourself with positive people and celebrate your achievements."
+        },
+        {
+          "index": 4,
+          "quote": "Life is either a daring adventure or nothing at all.",
+          "song": "Eye of the Tiger by Survivor",
+          "healthTip": "Try something new and embrace challenges as opportunities for growth."
+        },
+        {
+          "index": 5,
+          "quote": "Success is not the key to happiness. Happiness is the key to success.",
+          "song": "Walking on Sunshine by Katrina and the Waves",
+          "healthTip": "Visualize success and focus on the positive outcomes of your efforts."
+        },
+        {
+          "index": 6,
+          "quote": "The secret of getting ahead is getting started.",
+          "song": "Good Life by OneRepublic",
+          "healthTip": "Create a vision board and take action towards your dreams."
+        },
+        {
+          "index": 7,
+          "quote": "Life begins at the end of your comfort zone.",
+          "song": "Happy by Pharrell Williams",
+          "healthTip": "Challenge yourself to step out of your comfort zone and try new experiences."
+        },
+        {
+          "index": 8,
+          "quote": "Believe you can and you're halfway there.",
+          "song": "Good Life by OneRepublic",
+          "healthTip": "Cultivate a positive mindset and believe in your ability to achieve your goals."
+        },
+        {
+          "index": 9,
+          "quote": "The future belongs to those who believe in the beauty of their dreams.",
+          "song": "Happy by Pharrell Williams",
+          "healthTip": "Set specific, measurable, achievable, relevant, and time-bound goals."
+        },
+        {
+          "index": 10,
+          "quote": "Life is 10% what happens to us and 90% how we react to it.",
+          "song": "Walking on Sunshine by Katrina and the Waves",
+          "healthTip": "Focus on what you can control and let go of things beyond your control."
+        }
+      ],
+      "Relaxed": [
+        {
+          "index": 1,
+          "quote": "Relax, nothing is under control.",
+          "song": "The Lazy Song by Bruno Mars",
+          "healthTip": "Practice deep breathing exercises and progressive muscle relaxation."
+        },
+        {
+          "index": 2,
+          "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+          "song": "Don't Worry, Be Happy by Bobby McFerrin",
+          "healthTip": "Spend time in nature and connect with the natural rhythms of life."
+        },
+        {
+          "index": 3,
+          "quote": "Relaxation means releasing all concern and tension and letting the natural order of life flow through one’s being.",
+          "song": "Here Comes the Sun by The Beatles",
+          "healthTip": "Practice yoga or tai chi to cultivate a sense of peace and tranquility."
+        },
+        {
+          "index": 4,
+          "quote": "Sometimes the most productive thing you can do is relax.",
+          "song": "Don't Worry, Be Happy by Bobby McFerrin",
+          "healthTip": "Schedule regular breaks throughout your day to rest and recharge."
+        },
+        {
+          "index": 5,
+          "quote": "Tension is who you think you should be. Relaxation is who you are.",
+          "song": "The Sound of Silence by Simon & Garfunkel",
+          "healthTip": "Practice mindfulness meditation to cultivate awareness and inner peace."
+        },
+        {
+          "index": 6,
+          "quote": "The time to relax is when you don't have time for it.",
+          "song": "The Lazy Song by Bruno Mars",
+          "healthTip": "Set boundaries and prioritize self-care to prevent burnout and overwhelm."
+        },
+        {
+          "index": 7,
+          "quote": "Serenity is not freedom from the storm, but peace amid the storm.",
+          "song": "Landslide by Fleetwood Mac",
+          "healthTip": "Create a calming environment at home with soft lighting and soothing music."
+        },
+        {
+          "index": 8,
+          "quote": "To experience peace does not mean that your life is always blissful. It means that you are capable of tapping into a blissful state of mind amidst the normal chaos of a hectic life.",
+          "song": "Here Comes the Sun by The Beatles",
+          "healthTip": "Practice gratitude and focus on the present moment to cultivate inner peace."
+        },
+        {
+          "index": 9,
+          "quote": "Relax. Recharge. Reflect. Then get back to the hustle.",
+          "song": "The Lazy Song by Bruno Mars",
+          "healthTip": "Set aside time for relaxation and self-care to prevent burnout and exhaustion."
+        },
+        {
+          "index": 10,
+          "quote": "Simplicity is the ultimate sophistication.",
+          "song": "Imagine by John Lennon",
+          "healthTip": "Declutter your space and simplify your life to reduce stress and promote relaxation."
+        }
+      ],
+      "Surprised": [
+        {
+          "index": 1,
+          "quote": "The only thing that is constant is change.",
+          "song": "Changes by David Bowie",
+          "healthTip": "Embrace uncertainty and see surprises as opportunities for growth and learning."
+        },
+        {
+          "index": 2,
+          "quote": "Expect the unexpected.",
+          "song": "Surprise Surprise by Billy Talent",
+          "healthTip": "Keep an open mind and be flexible in your approach to life's surprises."
+        },
+        {
+          "index": 3,
+          "quote": "Life is like a box of chocolates, you never know what you're gonna get.",
+          "song": "Surprises by Billy Talent",
+          "healthTip": "Stay curious and be open to new experiences and unexpected outcomes."
+        },
+        {
+          "index": 4,
+          "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+          "song": "Survivor by Destiny's Child",
+          "healthTip": "Face challenges with resilience and use surprises as opportunities for growth."
+        },
+        {
+          "index": 5,
+          "quote": "Don't be afraid of change. You may lose something good, but you may gain something better.",
+          "song": "Change Your Mind by The Killers",
+          "healthTip": "Embrace change and see surprises as opportunities for personal and professional growth."
+        },
+        {
+          "index": 6,
+          "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+          "song": "Change by Taylor Swift",
+          "healthTip": "Stay adaptable and see surprises as opportunities for creativity and innovation."
+        },
+        {
+          "index": 7,
+          "quote": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+          "song": "Changes by David Bowie",
+          "healthTip": "Embrace change and see surprises as opportunities for personal growth and transformation."
+        },
+        {
+          "index": 8,
+          "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+          "song": "Change by Taylor Swift",
+          "healthTip": "Stay adaptable and see surprises as opportunities for personal and professional growth."
+        },
+        {
+          "index": 9,
+          "quote": "Life is 10% what happens to us and 90% how we react to it.",
+          "song": "Changes by Tupac",
+          "healthTip": "Adapt to change with grace and resilience, and see surprises as opportunities for growth."
+        },
+        {
+          "index": 10,
+          "quote": "When you least expect it, the universe will surprise you.",
+          "song": "Change by Taylor Swift",
+          "healthTip": "Stay open to life's surprises and embrace the unknown with curiosity and wonder."
+        }
+      ]
+    }
+    
